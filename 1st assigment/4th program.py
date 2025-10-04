@@ -1,0 +1,7 @@
+'''Write a Python program to swap two variables?'''
+
+a=1
+b=2
+a,b=b,a
+print(a)
+print(b)
